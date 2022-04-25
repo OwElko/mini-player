@@ -12,8 +12,8 @@ new Vue({
         {
           name: "Mekanın Sahibi",
           artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          cover: "https://i.ibb.co/vk1KdDH/IMG-20220422-200340.png",
+          source: "https://github.com/Sharyl88/anachid/raw/main/01.(%D9%85%D8%A7%D9%87%D8%B1%20%D8%B2%D9%8A%D9%86%20-%20%D8%B1%D9%85%D8%B6%D8%A7%D9%86%20(%D8%A8%D8%AF%D9%88%D9%86%20%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
