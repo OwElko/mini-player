@@ -10,32 +10,32 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "رمضان (بدون موسيقى)",
+          artist: "ماهر زين",
           cover: "https://i.ibb.co/QXfS79n/mp3cover.png",
           source: "https://github.com/Sharyl88/anachid/raw/main/01.(%D9%85%D8%A7%D9%87%D8%B1%20%D8%B2%D9%8A%D9%86%20-%20%D8%B1%D9%85%D8%B6%D8%A7%D9%86%20(%D8%A8%D8%AF%D9%88%D9%86%20%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
+          name: "رمضان جانا بدون موسيقى",
+          artist: "ماهر زين",
           cover: "https://i.ibb.co/QXfS79n/mp3cover.png",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          source: "https://github.com/Sharyl88/anachid/raw/main/02.%D8%B1%D9%85%D8%B6%D8%A7%D9%86%20%D8%AC%D8%A7%D9%86%D8%A7%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89%20--%20%D9%85%D8%A7%D9%87%D8%B1%20%D8%B2%D9%8A%D9%86.mp3",
+          url: "",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
+          name: "مرحب مرحب يا هلال",
+          artist: "بدون موسيقى",
           cover: "https://i.ibb.co/QXfS79n/mp3cover.png",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+          source: "https://github.com/Sharyl88/anachid/raw/main/03.%D8%A3%D9%87%D9%84%D9%8B%D8%A7%20%D8%B1%D9%85%D8%B6%D8%A7%D9%86%20(%D8%A8%D8%AF%D9%88%D9%86%20%D8%A7%D9%8A%D9%82%D8%A7%D8%B9%20).mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
+          name: "نور على نور",
+          artist: "ماهر زين",
           cover: "https://i.ibb.co/QXfS79n/mp3cover.png",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
